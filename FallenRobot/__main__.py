@@ -89,7 +89,7 @@ IMG = [
 
 PM_START_TEXT = """
 *Hello* {}[✨]({})
- I Aᴍ Yᴏᴜʀ  HANABI. HYUGA ᴛʜᴇᴍᴇᴅ ᴍᴀɴɢᴇᴍᴇɴᴛ ʙᴏᴛ 
+ I Aᴍ Yᴏᴜʀ  HANABI. ᴛʜᴇᴍᴇᴅ ᴍᴀɴɢᴇᴍᴇɴᴛ ʙᴏᴛ 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
 Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
@@ -106,7 +106,7 @@ buttons = [
         InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="dazai_"),
     ],
     [
-        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/lolpagalokigc"),
+        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/waifexanime"),
         InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
