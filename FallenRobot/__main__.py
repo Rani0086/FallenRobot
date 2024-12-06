@@ -75,21 +75,21 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_IMG = "https://telegra.ph/file/ca85acf32b0c086c340b8.jpg"
+PM_START_IMG = "https://files.catbox.moe/y4ae5a.jpg"
 
 PHOTO = [
-    "https://telegra.ph/file/062a222627806c46e965b.jpg",
+    "https://files.catbox.moe/y4ae5a.jpg",
 ]
 
 
 IMG = [
-    "https://telegra.ph/file/062a222627806c46e965b.jpg",
+    "https://files.catbox.moe/y4ae5a.jpg",
 ]
 
 
 PM_START_TEXT = """
 *Hello* {}[✨]({})
- I Aᴍ Yᴏᴜʀ  HANABI. ᴛʜᴇᴍᴇᴅ ᴍᴀɴɢᴇᴍᴇɴᴛ ʙᴏᴛ 
+ ɪ ᴀᴍ hinata, ᴀ Naruto  ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
 Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
@@ -123,7 +123,7 @@ GROUP_START_BTN = [
     ],
     [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/Infamous_Hydra"),
+        InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/BLOOD_MANSION"),
     ],
 ]
 
