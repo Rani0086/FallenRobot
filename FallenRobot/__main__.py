@@ -75,24 +75,30 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_IMG = "https://files.catbox.moe/y4ae5a.jpg"
+PM_START_IMG = "https://files.catbox.moe/0bqdrz.jpg"
 
 PHOTO = [
-    "https://files.catbox.moe/y4ae5a.jpg",
+    "https://files.catbox.moe/0bqdrz.jpg",
 ]
 
 
 IMG = [
-    "https://files.catbox.moe/y4ae5a.jpg",
+    "https://files.catbox.moe/0bqdrz.jpg",
 ]
 
 
 PM_START_TEXT = """
 *Hello* {}[✨]({})
- ɪ ᴀᴍ hinata, ᴀ Naruto  ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 
+ 𝐈 𝐀𝐌 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓 ,
+𝐁𝐎𝐓 𝐏𝐑𝐈𝐍𝐂𝐄 𝐓𝐇𝐄𝐌𝐄𝐃 𝐑𝐎𝐁𝐎𝐓
+𝐖𝐇𝐈𝐂𝐇 𝐂𝐀𝐍 𝐇𝐄𝐋𝐏 𝐘𝐎𝐔 𝐓𝐎 𝐌𝐀𝐍𝐀𝐆𝐄 𝐀𝐍𝐃 𝐒𝐄𝐂𝐔𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐖𝐈𝐓𝐇 𝐇𝐔𝐆𝐄 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-🌌 Cᴏɴᴛʀᴏʟ Yᴏᴜʀ Gʀᴏᴜᴘ Eғғᴏʀᴛʟᴇssʟʏ.Tʏᴘᴇ /ʜᴇʟᴘ Tᴏ Uɴᴠᴇɪʟ Yᴏᴜʀ Lᴏᴠᴇ.
-Lᴇᴛ's Bʀɪɴɢ Oʀᴅᴇʀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ!.
+
+𝐂𝐎𝐍𝐓𝐑𝐎𝐋 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏
+𝐄𝐅𝐅𝐎𝐑𝐓𝐋𝐄𝐒𝐒𝐋𝐘. 𝐓𝐘𝐏𝐄 /𝐇𝐄𝐋𝐏 𝐓𝐎 𝐔𝐍𝐕𝐈𝐄𝐋 𝐘𝐎𝐔𝐑 𝐋𝐎𝐕𝐄.
+𝐋𝐄𝐓𝐒 𝐁𝐑𝐈𝐍𝐆 𝐎𝐑𝐃𝐄𝐑 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏! 
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+
 """
 buttons = [
     [
@@ -106,7 +112,7 @@ buttons = [
         InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="dazai_"),
     ],
     [
-        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/waifexanime"),
+        InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇ", url=f"https://t.me/l_ABOUT_PRINCE_l"),
         InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -123,7 +129,7 @@ GROUP_START_BTN = [
     ],
     [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="ɴᴇᴛᴡᴏʀᴋ", url=f"https://t.me/BLOOD_MANSION"),
+        InlineKeyboardButton(text="about PRINCE", url=f"https://t.me/l_ABOUT_PRINCE_l"),
     ],
 ]
 
